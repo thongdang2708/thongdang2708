@@ -26,6 +26,6 @@
 ## Skills:
 <p align="center">
 
-   <img src="https://skillicons.dev/icons?i=ts, py, js, java, react, redux, html, css, vscode, idea, aws, express, nodejs, firebase, spring, mysql, postgres, mongodb, docker, git, github" />
+   <img src="https://skillicons.dev/icons?i=ts,py, js, java, react, redux, html, css, vscode, idea, aws, express, nodejs, firebase, spring, mysql, postgres, mongodb, docker, git, github" />
   
 </p>
