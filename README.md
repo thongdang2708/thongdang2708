@@ -7,7 +7,7 @@
 
 - ✍ I'm a full-time full-stack IT student of: Oulu University of Applied Sciences in Oulu, Finland.
 
--🌱 I have strong skills in several programming languages such Java, Javascript, Python, and TypeScript, and a little bit in Kotlin.
+-🌱 I have strong skills in several programming languages such Java, Javascript, Python, and TypeScript, and a little knowledge in Kotlin (for Android Development).
 
 -🌱 For front-end sides, I have skills in HTML, CSS, ReactJs, React Native, TailwindCSS, Redux.
 
