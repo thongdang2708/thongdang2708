@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a full-time full-stack IT student of: Oulu University of Applied Sciences in Oulu, Finland.
+- ✍ I'm a full-time full-stack IT student of: Oulu University of Applied Sciences in Oulu, Finland, GPA: 4.06/5.
 
 -🌱 I have strong skills in several programming languages such Java, Javascript, Python, and TypeScript, and a little knowledge in Kotlin (for Android Development).
 
