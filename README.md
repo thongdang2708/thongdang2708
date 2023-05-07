@@ -1,4 +1,5 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="100%" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+<br>
 <h1 align="center">Hi 👋, I'm Thong Dang </h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 is living in Finland. </h3>
