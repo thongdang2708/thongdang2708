@@ -29,6 +29,10 @@
 
    <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,react,redux,tailwind,html,css,vscode,idea,aws,express,nodejs,firebase,spring,mysql,postgres,mongodb,docker,git,github,kotlin,androidstudio" />
    
-  <p style={{fontWeight: bold}}> Daily Dev Article Badge </p>
-  <a href="https://app.daily.dev/thongdang"><img src="https://api.daily.dev/devcards/4b2b5d8b39f841c6b4612e8aa876b709.png?r=bwd" width="400" alt="Thong Dang's Dev Card"/></a>
 </p>
+
+## Daily Dev Article Badge:
+
+<a href="https://app.daily.dev/thongdang"><img src="https://api.daily.dev/devcards/4b2b5d8b39f841c6b4612e8aa876b709.png?r=bwd" width="400" alt="Thong Dang's Dev Card"/></a>
+
+
