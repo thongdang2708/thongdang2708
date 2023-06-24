@@ -28,7 +28,10 @@
 <p align="center">
 
    <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,react,redux,tailwind,html,css,vscode,idea,aws,express,nodejs,firebase,spring,mysql,postgres,mongodb,docker,git,github,kotlin,androidstudio" />
+
    
+  <i class="devicon-postgresql-plain-wordmark colored"></i>
+          
 </p>
 
 ## Daily Dev Article Badge:
