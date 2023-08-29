@@ -20,6 +20,9 @@
 
 🌱 I know how to use Docker and Git tools.
 
+<br />
+
+Currently: A Software Engineering Intern at Nubedian GmbH, Germany.
 
 <br />
 
