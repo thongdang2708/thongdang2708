@@ -6,7 +6,7 @@
 </p>
 
 
-   ✍ I'm a full-time full-stack IT student of: Oulu University of Applied Sciences in Oulu, Finland, GPA: 3.90/5.
+   ✍ I'm a full-time full-stack IT student of: Oulu University of Applied Sciences in Oulu, Finland, GPA: 3.94/5.
 
 🌱 I have strong skills in several programming languages such Java, C#, Javascript, Python, and TypeScript, and Kotlin (for Android Development).
 
@@ -19,6 +19,8 @@
 🌱 I have several skills in Amazon Cloud Services such as AWS Elastic Beantalk, AWS S3 Bucket, AWS RDS.
 
 🌱 I know how to use Docker and Git tools.
+
+🌱 Knowledge of automation testing framework: PlayWright.
 
 <br />
 
