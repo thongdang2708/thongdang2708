@@ -20,7 +20,7 @@
 
 🌱 I know how to use Docker and Git tools.
 
-🌱 Knowledge of automation testing framework: PlayWright.
+🌱 Knowledge of automation testing framework: Playwright.
 
 <br />
 
