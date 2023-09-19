@@ -20,7 +20,7 @@
 
 🌱 I know how to use Docker and Git tools.
 
-🌱 Knowledge of automation testing framework: Playwright.
+🌱 Knowledge of unit testing: JUnit, Mockito (Java) and automation testing framework: Playwright (Javascript).
 
 <br />
 
