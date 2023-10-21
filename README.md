@@ -22,6 +22,8 @@
 
 🌱 Knowledge of unit testing: JUnit, Mockito (Java) and automation testing framework: Playwright (Javascript).
 
+🌱 Knowledge of stream-processing platform such as Apache Kafka.
+
 <br />
 
 Currently: A Software Engineering Intern at Nubedian GmbH, Germany.
@@ -32,7 +34,7 @@ Currently: A Software Engineering Intern at Nubedian GmbH, Germany.
 ## Skills:
 <p align="center">
 
-   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,git,github,kotlin,androidstudio" />
+   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,git,github,kotlin,androidstudio,kafka" />
 
    
 
