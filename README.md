@@ -8,7 +8,7 @@
 
    ✍ I'm a full-time full-stack IT student of: Oulu University of Applied Sciences in Oulu, Finland, GPA: 3.97/5.
 
-🌱 I have strong skills in several programming languages such Java, C#, Javascript, Python, and TypeScript, and Kotlin (for Android Development).
+🌱 I have strong skills in several programming languages such Java, C++, C#, Javascript, Python, TypeScript, and Kotlin (for Android Development).
 
 🌱 For front-end sides, I have skills in HTML, CSS, ReactJs, React Native, TailwindCSS, Redux.
 
@@ -47,7 +47,7 @@ develop branch on the Stage environment.
 ## Skills:
 <p align="center">
 
-   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,git,github,kotlin,androidstudio,kafka" />
+   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,cpp,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,git,github,kotlin,androidstudio,kafka" />
 
    
 
