@@ -26,14 +26,14 @@
 
 <br />
 
-Currently: A Software Engineering Intern at Nubedian GmbH, Germany.
+05/06/2023 - 05/12/2023: A Software Engineering Intern at Nubedian GmbH, Germany.
 
 - Developed 11 new ReactJS front-end features together with updating and persisting data into the server side and database with Java Spring Boot framework and MariaDB SQL database for Caseform, a healthcare system company project.
 - Fixed 12 functional bugs for the previous implementations in Caseform.
 - Enhanced registration verification and optimized user data retrieval actions for updating user information in Caseform by integrating a microservice from Keycloak.
 - Updated PDF features for exporting with Latex.
 - Improved client-side performance by implementing debounce methods and enhanced server-side efficiency using optimized SQL queries and suitable mapping techniques.
-- Migrated with Flyway configuration to add new columns and update new data for those columns in MariaDB SQL database with advanced SQL techniques such as sub-queries or window functions. 
+- Migrated with Flyway configuration to add new columns and update new data for those columns in MariaDB SQL database with advanced SQL techniques such as sub-queries, window functions, or if...then. 
 - Created comprehensive unit tests for the back-end side using JUnit and Mockito to evaluate functions in design pattern Three Layer (Controller, Service, Repository) and pass the checking rate of Codecov, a code coverage assessment for test suite, at around 76% of coverage. 
 - Established automation tests to assess UI functionalities utilizing the Playwright framework. 
 - Collaborated within an agile team, following the Scrum methodology with bi-weekly sprint retrospective and planning meetings. Led one sprint planning session with the support of experienced developers. In addition, actively engaged in code reviews and collaborated closely with fellow team members to refine project codebase.
