@@ -42,6 +42,8 @@
 
 <br />
 
+Leetcode account: https://leetcode.com/thongdang/
+
 ## Skills:
 <p align="center">
 
