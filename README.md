@@ -31,7 +31,7 @@
 - Developed 13 new ReactJS front-end features together with updating and persisting data into the server side and database with Java Spring Boot framework and MariaDB SQL database for Caseform, a healthcare system company project.
 - Fixed 14 functional bugs for the previous implementations in Caseform.
 - Enhanced registration verification and optimized user data retrieval actions for updating user information in Caseform by integrating a microservice from Keycloak.
-- Updated PDF features for exporting with Latex.
+- Updated PDF features for exporting with Latex from NodeJS server-side.
 - Improved client-side performance by implementing debounce methods and enhanced server-side efficiency using optimized SQL queries and suitable mapping techniques.
 - Migrated with Flyway configuration to add new columns and update new data for those columns in MariaDB SQL database with advanced SQL techniques such as sub-queries, window functions, or if...then. 
 - Created comprehensive unit tests for the back-end side using JUnit and Mockito to evaluate functions in design pattern Three Layer (Controller, Service, Repository) and pass the checking rate of Codecov, a code coverage assessment for test suite, at around 76% of coverage. 
