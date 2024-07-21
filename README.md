@@ -42,6 +42,16 @@
 
 <br />
 
+<br />
+
+11/03/2024 - Present: A Software Engineer at Nubedian GmbH, Germany.
+
+- Enhanced back-end API endpoint performance by reducing transaction timing by 70% on average and improving security.
+- Led full-stack development with ReactJS and Spring Boot frameworks for 3 features, resolved 6 functional bugs, and reviewed 4 pull requests.
+- Implemented searching and pagination functionalities from server side to client side.
+
+<br />
+
 Leetcode account: https://leetcode.com/thongdang/
 
 ## Skills:
