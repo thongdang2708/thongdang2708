@@ -49,6 +49,7 @@
 - Enhanced back-end API endpoint performance by reducing transaction timing by 70% on average and improving security.
 - Led full-stack development with ReactJS and Spring Boot frameworks for 3 features, resolved 6 functional bugs, and reviewed 4 pull requests.
 - Implemented searching and pagination functionalities from server side to client side.
+- Managed pods in Kubernetes for efficient deployment and scaling.
 
 <br />
 
