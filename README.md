@@ -47,7 +47,7 @@
 11/03/2024 - Present: A Software Engineer at Nubedian GmbH, Germany.
 
 - Enhanced back-end API endpoint performance by reducing transaction timing by 70% on average and improving security.
-- Led full-stack development with ReactJS and Spring Boot frameworks for 5 features, resolved 10 functional bugs, and reviewed 7 pull requests.
+- Led full-stack development with ReactJS and Spring Boot frameworks for 7 features, resolved 10 functional bugs, and reviewed 9 pull requests.
 - Implemented searching and pagination functionalities from server side to client side.
 - Managed pods in Kubernetes for efficient deployment and scaling.
 
