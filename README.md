@@ -44,7 +44,7 @@
 
 <br />
 
-11/03/2024 - Present: A Software Engineer at Nubedian GmbH, Germany.
+11/03/2024 - 16/08/2024: A Software Engineer at Nubedian GmbH, Germany.
 
 - Enhanced back-end API endpoint performance by reducing transaction timing by 70% on average and improving security.
 - Led full-stack development with ReactJS and Spring Boot frameworks for 7 features, resolved 10 functional bugs, and reviewed 9 pull requests.
