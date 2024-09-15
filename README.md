@@ -16,9 +16,9 @@
 
 🌱 For databases, I know how to use Firebase, MySQL and PostgreSQL for SQL, and MongoDB, Firestore for NoSQL.
 
-🌱 I have several skills in Amazon Cloud Services such as AWS Elastic Beantalk, AWS S3 Bucket, AWS RDS.
+🌱 I have several skills in Azure (Web App Services for Containers) and Amazon Cloud Services (AWS Elastic Beantalk, AWS S3 Bucket, AWS RDS).
 
-🌱 I know how to use Docker, Kubernetes, and Git tools.
+🌱 I know how to use Docker, Kubernetes, Git, Gitlab, and Gitlab Actions for CI/CD tools.
 
 🌱 Knowledge of unit testing: JUnit, Mockito (Java) and automation testing framework: Playwright (Javascript).
 
@@ -58,7 +58,7 @@ Leetcode account: https://leetcode.com/thongdang/
 ## Skills:
 <p align="center">
 
-   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,cpp,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,kubernetes,git,github,kotlin,androidstudio,kafka" />
+   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,cpp,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,kubernetes,git,github,kotlin,androidstudio,kafka,gitlab,githubactions,azure" />
 
    
 
