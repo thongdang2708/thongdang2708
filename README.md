@@ -58,7 +58,7 @@ Leetcode account: https://leetcode.com/thongdang/
 ## Skills:
 <p align="center">
 
-   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,cpp,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,kubernetes,git,github,kotlin,androidstudio,kafka,gitlab,githubactions,azure" />
+   <img src="https://skillicons.dev/icons?i=cs,ts,py,js,java,cpp,react,redux,tailwind,materialui,html,css,vscode,idea,aws,express,nodejs,firebase,dotnet,spring,mysql,postgres,mongodb,docker,kubernetes,git,github,kotlin,androidstudio,kafka,gitlab,githubactions,azure,latex" />
 
    
 
