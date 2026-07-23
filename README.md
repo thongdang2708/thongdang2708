@@ -26,6 +26,8 @@
 
 <br />
 
+02/12/2024 - Current: Software Engineer at Nokia
+
 05/06/2023 - 05/12/2023: A Software Engineering Intern at Nubedian GmbH, Germany.
 
 - Developed 13 new ReactJS front-end features together with updating and persisting data into the server side and database with Java Spring Boot framework and MariaDB SQL database for Caseform, a healthcare system company project.
